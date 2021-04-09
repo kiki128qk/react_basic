@@ -1,0 +1,7 @@
+.moveie{width: 49%; height: auto; border: 1px solid #ddd; padding: 15px; display: flex; margin: 5px auto;}
+.moveie img{width: 250px; padding: 15px;}
+.moveie .movie_data{ margin: 10px auto;}
+.moveie>a{display: flex;}
+.movie_data .movie_title {text-align: center; background: cornsilk; color: #000; font-size: 25px; margin: 10px;}
+.movie_data .movie_year{ font-size: 16px; margin: 15px auto;}
+.movie_data ul{border-top: 1px solid #fff; border-bottom: 1px solid #fff; margin-bottom: 15px;}
